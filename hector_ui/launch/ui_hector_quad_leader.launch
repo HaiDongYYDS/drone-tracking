@@ -1,0 +1,4 @@
+<launch>  
+    <!-- 启动 drone_teleop.py 节点 -->  
+    <node pkg="hector_ui" type="ui_hector_quad_leader.py" name="ui_hector_quad_leader" output="screen"/>  
+</launch>

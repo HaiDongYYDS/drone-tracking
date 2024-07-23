@@ -1,0 +1,7 @@
+<launch>  
+    <!-- 启动 joy_node，用于接收游戏手柄输入 -->  
+    <node pkg="joy" type="joy_node" name="joy_node" />  
+  
+    <!-- 启动 drone_teleop.py 节点 -->  
+    <node pkg="hector_ui" type="drone_teleop.py" name="drone_teleop" output="screen"/>  
+</launch>
