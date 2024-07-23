@@ -8,11 +8,10 @@ The title of this project is drone tracking based on yolo, which uses yolo targe
     <img src="imgs/drone.png" height="250"/> <img src="imgs/dron_photo_rviz.png" height="250"/>
 </p>
 
-
+## Recommended environment:ROS Noetic & Gazebo 11
 
 ## Requirements
 
-#### Recommended environment:ROS Noetic & Gazebo 11
 
 I. You need the following packages before install `hector_quadrotor_noetic`.
 
