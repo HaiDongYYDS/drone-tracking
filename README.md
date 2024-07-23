@@ -125,8 +125,5 @@ Run a simulation by executing the launch file in `hector_quadrotor_gazebo` and `
 
 ## Show
 
-Here is a [video](https://www.youtube.com/watch?v=-2IWfZjqoNc) show it:
-
-<p align="center">
-    <a href=" https://www.bilibili.com/video/BV1aQ8qeZEtn/?share_source=copy_web&vd_source=ddad7ad1be8989119bed5da443573693"><img src="imgs/gif.GIF"/></a>
-</p>
+Here is a [video](【基于YOLO的无人机追捕】 https://www.bilibili.com/video/BV1aQ8qeZEtn/?share_source=copy_web&vd_source=ddad7ad1be8989119bed5da443573693) show it:
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112835250160501&bvid=BV1aQ8qeZEtn&cid=500001624751270&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
