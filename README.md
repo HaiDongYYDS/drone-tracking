@@ -126,6 +126,6 @@ Run a simulation by executing the launch file in `hector_quadrotor_gazebo` and `
 
 Here is a [video](https://www.bilibili.com/video/BV1aQ8qeZEtn/?share_source=copy_web&vd_source=ddad7ad1be8989119bed5da443573693) show it:
 
-[![Drone tracking based on YOLO](imgs/gif.gif)](https://www.bilibili.com/video/BV1aQ8qeZEtn/?share_source=copy_web&vd_source=ddad7ad1be8989119bed5da443573693)
+[![Drone tracking based on YOLO](imgs/cover.png)](https://www.bilibili.com/video/BV1aQ8qeZEtn/?share_source=copy_web&vd_source=ddad7ad1be8989119bed5da443573693)
 
 
